@@ -31,17 +31,7 @@ Video of the extracted histograms: https://www.youtube.com/watch?v=kGv0gmtVEbI
 <img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Average_Velocity_of_vehicles_over_time_per_zones.png" width="600" align="center">
 </p>
 
-<p align="center">
-<img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Correlation_1.png" width="600" align="center">
-</p>
 
-<p align="center">
-<img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Correlation_2.png" width="600" align="center">
-</p>
-
-<p align="center">
-<img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Correlation_3.png" width="600" align="center">
-</p>
 
 <p align="center">
 <img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Heat_map_image_of_the_maximum_recorded_velocity_per_pixel.png" width="600" align="center">
@@ -77,12 +67,28 @@ Video of the extracted histograms: https://www.youtube.com/watch?v=kGv0gmtVEbI
 <img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Probability_density_of_vehicles_velocities_for_the_total_video.png" width="600" align="center">
 </p>
 
+# The full trajectories follown by all the vehicles
 <p align="center">
 <img src="https://github.com/bilel-bj/TAU/blob/main/Figures/The_trajectories_of_vehicles.png" width="600" align="center">
 </p>
+
+
+# Smart crossroads management of roads based on TAU
 
 <p align="center">
 <img src="https://github.com/bilel-bj/TAU/blob/main/Figures/movements_between_zones.png" width="600" align="center">
 </p>
 
 
+# The correlation between the different factors to understand traffic law compliance 
+<p align="center">
+<img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Correlation_1.png" width="600" align="center">
+</p>
+
+<p align="center">
+<img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Correlation_2.png" width="600" align="center">
+</p>
+
+<p align="center">
+<img src="https://github.com/bilel-bj/TAU/blob/main/Figures/Correlation_3.png" width="600" align="center">
+</p>
