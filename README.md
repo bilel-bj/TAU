@@ -13,18 +13,43 @@ At this stage, we did not share the code we used to process the UAV traffic vide
 The code and the framework can be used only for non-commercial purposes. For commercial interest please contact bilel.benjdira_at_gmail.com and riotu_at_psu.edu.sa
 
 # Video demonstration
-Video Demonstration Link: https://youtu.be/wXJV0H7LviU
+TAU Video Demonstration Link: https://youtu.be/wXJV0H7LviU
 
 [![TAU: Traffic Analysis from UAV](Figures/video_demo.png)](https://youtu.be/wXJV0H7LviU)
 
-Video of the exatracted histograms: https://www.youtube.com/watch?v=kGv0gmtVEbI 
+Video of the extracted histograms: https://www.youtube.com/watch?v=kGv0gmtVEbI 
 
-[![TAU: Exatracted Histograms](Figures/video_histograms.png)]([https://youtu.be/wXJV0H7LviU](https://www.youtube.com/watch?v=kGv0gmtVEbI ))
+[![TAU: Exatracted Histograms](Figures/video_histograms.png)]([https://youtu.be/wXJV0H7LviU](https://www.youtube.com/watch?v=kGv0gmtVEbI))
+
 # Samples of extracted insights
 
+![TAU](Figures/Average_Velocity_of_vehicles_over_time.png)
 
+![TAU](Figures/Average_Velocity_of_vehicles_over_time_per_zones.png)
 
+[![TAU](Figures/Correlation_1.png)]
 
+[![TAU](Figures/Correlation_2.png)]
 
+[![TAU](Figures/Correlation_3.png)]
 
+[![TAU](Figures/Heat_map_image_of_the_maximum_recorded_velocity_per_pixel.png)]
+
+[![TAU](Figures/Heat_map_image_of_the_most_congested_areas.png)]
+
+[![TAU](Figures/Heat_map_of_the_average_velocity_per_pixel.png)]
+
+[![TAU](Figures/Nbre of vehicles_per_zones_over_time.png)]
+
+[![TAU](Figures/Nbre_of_vehicles_over_time.png)]
+
+[![TAU](Figures/Number_of_Allowed_and_Forbidden_crosses_over_time.png)]
+
+[![TAU](Figures/Probability_density_of_vehicles_sizes_for_the_total_video.png)]
+
+[![TAU](Figures/Probability_density_of_vehicles_velocities_for_the_total_video.png)]
+
+[![TAU](Figures/The_trajectories_of_vehicles.png)]
+
+[![TAU](Figures/movements_between_zones.png)]
 
