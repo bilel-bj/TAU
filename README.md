@@ -15,10 +15,11 @@ The code and the framework can be used only for non-commercial purposes. For com
 # Video demonstration
 Video Demonstration Link: https://youtu.be/wXJV0H7LviU
 
-[![TAU: Traffic Analysis from UAV](video_demo.png)](https://youtu.be/wXJV0H7LviU)
+[![TAU: Traffic Analysis from UAV](Figures/video_demo.png)](https://youtu.be/wXJV0H7LviU)
 
 Video of the exatracted histograms: https://www.youtube.com/watch?v=kGv0gmtVEbI 
 
+[![TAU: Exatracted Histograms](Figures/video_histograms.png)]([https://youtu.be/wXJV0H7LviU](https://www.youtube.com/watch?v=kGv0gmtVEbI ))
 # Samples of extracted insights
 
 
