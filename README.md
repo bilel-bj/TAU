@@ -1,9 +1,25 @@
-# TAU
-TAU: A framework for video-based traffic analytics leveraging artificial intelligence and unmanned aerial systems
-
+# TAU: A framework for video-based traffic analytics leveraging artificial intelligence and unmanned aerial systems 
 Bilel Benjdira, Anis Koubaa, Ahmad Taher Azar, Zahid Khan, Adel Ammar, Wadii Boulila
 
 RIOTU Lab, Prince Sultan University, Saudi Arabia
+[![TAU](Figures/published-journal.png)](https://www.sciencedirect.com/science/article/abs/pii/S0952197622002408)
+
+
+# Citation
+if you find our paper useful in your research, please cite:
+```
+@article{BENJDIRA2022105095,
+title = {TAU: A framework for video-based traffic analytics leveraging artificial intelligence and unmanned aerial systems},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {114},
+pages = {105095},
+year = {2022},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2022.105095},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197622002408},
+author = {Bilel Benjdira and Anis Koubaa and Ahmad Taher Azar and Zahid Khan and Adel Ammar and Wadii Boulila}}
+```
+
 
 # Code description
 We shared the source code for extracting 20 traffic insights using TAU. You can apply it on any UAV traffic video you want after generating the results.xslx file related to it. 
