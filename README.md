@@ -1,7 +1,8 @@
 # TAU: A framework for video-based traffic analytics leveraging artificial intelligence and unmanned aerial systems 
 Bilel Benjdira, Anis Koubaa, Ahmad Taher Azar, Zahid Khan, Adel Ammar, Wadii Boulila
-
 RIOTU Lab, Prince Sultan University, Saudi Arabia
+
+Link to the paper: https://www.sciencedirect.com/science/article/abs/pii/S0952197622002408 
 [![TAU](Figures/published-journal.png)](https://www.sciencedirect.com/science/article/abs/pii/S0952197622002408)
 
 
