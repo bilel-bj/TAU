@@ -4,6 +4,11 @@ Bilel Benjdira, Anis Koubaa, Ahmad Taher Azar, Zahid Khan, Adel Ammar, Wadii Bou
 RIOTU Lab, Prince Sultan University, Saudi Arabia
 
 Link to the paper: https://www.sciencedirect.com/science/article/abs/pii/S0952197622002408 
+
+Arxiv preprint: https://arxiv.org/abs/2303.00337
+
+Science Cast video: https://sciencecast.org/casts/oq0mw5g7x39a 
+
 [![TAU](Figures/published-journal.png)](https://www.sciencedirect.com/science/article/abs/pii/S0952197622002408)
 
 
